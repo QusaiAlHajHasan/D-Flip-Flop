@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Study\2019-2020\Second Semester\CPE433 - Advanced Digital\D-FlipFlop\D_FF.ncd
+OUTFILE=D:\Study\2019-2020\Second Semester\CPE433 - Advanced Digital\D-FlipFlop\D_FF.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=D:\Study\2019-2020\Second Semester\CPE433 - Advanced Digital\D-FlipFlop
+LICENSE=WebPack
+USER_INFO=210801185_0_0_457
